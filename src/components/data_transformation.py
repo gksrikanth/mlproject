@@ -25,7 +25,7 @@ class DataTransformation:
     def get_data_transformer_object(self):
         '''
 
-        This funciton is responsible for data transformation based on different types of data
+        This function is responsible for data transformation based on different types of data
 
         '''
         try:
